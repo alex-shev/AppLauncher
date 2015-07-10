@@ -11,9 +11,9 @@
         android:type="linear" />
 
     <padding
-        android:bottom="9sp"
+        android:bottom="5sp"
         android:left="6sp"
         android:right="6sp"
-        android:top="9sp" />
+        android:top="5sp" />
 
 </shape>

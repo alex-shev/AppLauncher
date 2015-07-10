@@ -9,7 +9,7 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Popular Movies"
+        android:text="@string/button_popular_movies"
         android:id="@+id/button_PopularMovies"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
@@ -23,7 +23,7 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Super Duo!"
+        android:text="@string/button_super_duo"
         android:id="@+id/button_SuperDuo"
         android:textSize="24sp"
         android:padding="20sp"
@@ -38,7 +38,7 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Build It Bigger"
+        android:text="@string/button_build_it_bigger"
         android:id="@+id/button_BuildItBigger"
         android:textSize="24sp"
         android:padding="20sp"
@@ -53,7 +53,7 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Material App"
+        android:text="@string/button_material_app"
         android:id="@+id/button_MaterialApp"
         android:textSize="24sp"
         android:padding="20sp"
@@ -68,7 +68,7 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Capstone App"
+        android:text="@string/button_capstone_app"
         android:id="@+id/button_Capstone"
         android:textSize="24sp"
         android:padding="20sp"
